@@ -1,115 +1,180 @@
-<div align="center">
+div align="center">
 
-# Hi, I'm Sraya 👋
+  <!-- Header Banner / Typing Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,24,28,34&height=220&section=header&text=Sraya%20Dutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%203D%20Web%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-**Computer Science Engineering student, building things at the intersection of web, cloud & data**
+  <!-- Animated Typing SVG -->
+  <a href="https://srayadutta23.github.io/portfolio-3d/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DD3C0&center=true&vCenter=true&width=650&lines=%E2%9A%9B%EF%B8%8F+Full-Stack+%26+Interactive+3D+Web+Developer;%F0%9F%8E%93+Computer+Science+Engineering+Student;%F0%9F%9A%80+Exploring+React%2C+Three.js%2C+Node.js+%26+Cloud;%F0%9F%92%A1+Passionate+about+building+scalable+systems" alt="Typing SVG" />
+  </a>
 
-[![Portfolio](http://localhost:5173/portfolio-3d/)](https://srayadutta23.github.io/portfolio-3d/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srayadutta23)
-[![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sraya.dutta23@gmail.com)
+  <br/><br/>
 
-</div>
-
-<br/>
-
-### About me
-
-I'm a Computer Science Engineering student at **Nitte Meenakshi Institute of Technology, Bengaluru**, currently exploring full-stack web development, database systems, and cloud computing. I like building small, complete projects end-to-end — from schema design to the last bit of UI polish — and I'm slowly getting into 3D/interactive web experiences too.
-
-- 🎓 B.E. Computer Science Engineering — 3rd year
-- ☁️ AWS Cloud Practitioner & MongoDB certified
-- 🛠️ Currently building an HRMS app and an expense tracker (details below)
-- 🌱 Learning: cloud fundamentals (Azure AZ-900), 3D on the web
-- 💬 Ask me about: React, Node/Express, MongoDB, SQL, or UI design
-- ⚡ Fun fact: I got into coding through "vibecoding" side projects before I took it seriously as a career path
-
-<br/>
-
-### Tech stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web & backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Data & cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<br/>
-
-### Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Dayflow](https://github.com/srayadutta23/dayflow)** — HRMS platform | Full-stack HR management system for employee records, attendance, and workflows, built as a monorepo | React, TypeScript, Vite, Tailwind, Node.js, Express, MongoDB |
-| **[Paisa](https://github.com/srayadutta23/paisa)** — expense tracker | Personal finance tracker with budgets, recurring transactions, CSV export and auth | Node.js, Express, SQLite, JWT, Chart.js |
-| **[Travel Itinerary Website](https://github.com/srayadutta23/travel-itinerary)** | Responsive trip-planning app with dynamic itinerary cards and form validation | HTML, CSS, JavaScript |
-| **[Crime Rate Analysis System](https://github.com/srayadutta23/crime-rate-analysis)** | Database-backed system for querying and reporting on crime records by location, date and category | SQL |
-| **[3D Portfolio](https://github.com/srayadutta23/portfolio-3d)** | This profile's interactive 3D site — floating project consoles you can click through | React, React Three Fiber, Three.js, Vite |
-
-> Update the links above once each repo is public — GitHub badges only render for repos that exist.
-
-<br/>
-
-### Open to
-
-- 🎯 Software development / web development internships
-- 🤝 Open-source contributions and collaborative side projects
-- 🏆 Hackathons and coding competitions
-- 📚 Mentorship in cloud & backend engineering
-
-<br/>
-
-### GitHub stats
-
-<div align="center">
-
-![Sraya's GitHub stats](https://github-readme-stats.vercel.app/api?username=srayadutta23&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srayadutta23&layout=compact&theme=tokyonight&hide_border=true)
+  <!-- 3D Live Portfolio Badge / CTA -->
+  <a href="https://srayadutta23.github.io/portfolio-3d/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_LAUNCH_3D_PORTFOLIO-srayadutta23.github.io-7DD3C0?style=for-the-badge&logoColor=black&labelColor=1a1a2e" alt="3D Portfolio Website" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/srayadutta23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sraya.dutta23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
+  </a>
 
 </div>
 
 <br/>
 
-### Contribution graph, in 3D
+---
 
-You can add an animated 3D bar chart of your contribution graph using the community [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action. It runs on a schedule, commits an SVG/GIF into your repo, and you embed that image below.
+### 👨‍💻 About Me
 
-**Setup:**
-1. In this `srayadutta23/srayadutta23` repo, go to **Actions → New workflow → set up a workflow yourself**.
-2. Paste in the sample workflow from the [`github-profile-3d-contrib` README](https://github.com/yoshi389111/github-profile-3d-contrib#usage), keeping `github_user_name: srayadutta23`.
-3. Commit the workflow file (e.g. `.github/workflows/profile-3d.yml`). It'll run on a schedule and on push, and commit a `profile-3d-contrib/` folder with generated images.
-4. Once it's run once, embed the output here:
+```json
+{
+  "name": "Sraya Dutta",
+  "role": "Computer Science Engineering Student",
+  "location": "Bengaluru, India",
+  "focus_areas": ["Full-Stack Engineering", "3D & Interactive Web (WebGL / Three.js)", "System Design & Databases"],
+  "currently_exploring": ["React Three Fiber", "Distributed Systems", "Cloud Deployments"],
+  "open_for": ["Software Engineering Internships", "Full-Stack Roles", "Open Source Collaborations"]
+}
+```
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+- 🌐 **Interactive 3D Website:** Check out my WebGL 3D spatial experience at [srayadutta23.github.io/portfolio-3d](https://srayadutta23.github.io/portfolio-3d/)
+- 🔭 **Building:** Modern full-stack architectures, end-to-end web applications, and interactive user interfaces.
+- 💡 **Philosophy:** Bridging performant database architectures with immersive user experiences.
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend & 3D** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+<br/>
+
+---
+
+### 🚀 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://srayadutta23.github.io/portfolio-3d/">🌐 3D Interactive Portfolio</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <p>An interactive WebGL 3D portfolio where projects float as spatial interactive wireframe nodes in real-time lighting with smooth camera choreography and modal previews.</p>
+      <p align="center">
+        <a href="https://srayadutta23.github.io/portfolio-3d/"><b>[Live 3D Demo]</b></a> • 
+        <a href="https://github.com/srayadutta23/portfolio-3d"><b>[Source Code]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/srayadutta23/dayflow">💼 Dayflow - HRMS Platform</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>Full-stack HR management system for employee records, attendance, and role-based workflows built as a robust monorepo with typed API contracts.</p>
+      <p align="center">
+        <a href="https://github.com/srayadutta23/dayflow"><b>[Source Code]</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/srayadutta23/paisa">💰 Paisa - Expense Tracker</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      </p>
+      <p>Personal finance tracking platform featuring JWT authentication, budget analytics, recurring recurring transaction tracking, and interactive financial charts.</p>
+      <p align="center">
+        <a href="https://github.com/srayadutta23/paisa"><b>[Source Code]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/srayadutta23/crime-rate-analysis">📊 Crime Rate Analysis System</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database_Design-333333?style=flat-square" />
+      </p>
+      <p>Relational database management system engineered for high-performance spatial-temporal queries, statistical crime pattern detection, and automated analytical reports.</p>
+      <p align="center">
+        <a href="https://github.com/srayadutta23/crime-rate-analysis"><b>[Source Code]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Real-time Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srayadutta23&show_icons=true&theme=radical&hide_border=true&title_color=7DD3C0&icon_color=FF9F66&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srayadutta23&layout=compact&theme=radical&hide_border=true&title_color=7DD3C0&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srayadutta23&theme=radical&hide_border=true&stroke=7DD3C0&background=0d1117&ring=FF9F66&fire=7DD3C0&currStreakLabel=7DD3C0" alt="GitHub Streak" width="97%" />
+</div>
 
 <br/>
 
 <div align="center">
+  <!-- Interactive Contribution Graph / Snake Animation -->
+  <img src="https://raw.githubusercontent.com/srayadutta23/srayadutta23/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</div>
 
-**Let's connect** — [Portfolio](https://srayadutta23.github.io/portfolio-3d/) · [LinkedIn](https://linkedin.com/in/srayadutta23) · [Email](mailto:sraya.dutta23@gmail.com)
+<br/>
 
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+
+  <a href="https://srayadutta23.github.io/portfolio-3d/" target="_blank">
+    <img src="https://img.shields.io/badge/3D_Portfolio-srayadutta23.github.io-7DD3C0?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/srayadutta23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-srayadutta23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sraya.dutta23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sraya.dutta23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/srayadutta23">
+    <img src="https://img.shields.io/badge/GitHub-srayadutta23-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=srayadutta23&style=flat-square&color=7DD3C0&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br/>
+  <sub>Designed & Developed with ❤️ by <b>Sraya Dutta</b></sub>
 </div>
