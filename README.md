@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner / Typing Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,24,28,34&height=220&section=header&text=Sraya%20Dutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%203D%20Web%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner (High Reliability SVG) -->
+  <a href="https://srayadutta23.github.io/portfolio-3d/">
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=SRAYA%20DUTTA&text2=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%203D%20Web%20Developer&width=800&height=200" width="100%" alt="Sraya Dutta Header" />
+  </a>
+
+  <br/><br/>
 
   <!-- Animated Typing SVG -->
   <a href="https://srayadutta23.github.io/portfolio-3d/">
@@ -32,7 +36,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/srayadutta23/srayadutta23/main/assets/profile.jpg" alt="Sraya Dutta" width="220" style="border-radius: 20px; border: 3px solid #7DD3C0; box-shadow: 0 4px 20px rgba(125, 211, 192, 0.4);" />
+      <img src="https://github.com/srayadutta23.png" alt="Sraya Dutta" width="180" style="border-radius: 50%; border: 3px solid #7DD3C0;" />
       <br/><br/>
       <b>Sraya Dutta</b><br/>
       <sub>CSE • Full-Stack & 3D Web</sub>
