@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
   <!-- Header Banner / Typing Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,24,28,34&height=220&section=header&text=Sraya%20Dutta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%203D%20Web%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
@@ -27,24 +27,40 @@ div align="center">
 
 <br/>
 
----
+### 👩‍💻 About Me
 
-### 👨‍💻 About Me
+<table border="0" width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/srayadutta23/srayadutta23/main/assets/profile.jpg" alt="Sraya Dutta" width="220" style="border-radius: 20px; border: 3px solid #7DD3C0; box-shadow: 0 4px 20px rgba(125, 211, 192, 0.4);" />
+      <br/><br/>
+      <b>Sraya Dutta</b><br/>
+      <sub>CSE • Full-Stack & 3D Web</sub>
+    </td>
+    <td width="70%" valign="top">
 
 ```json
 {
   "name": "Sraya Dutta",
   "role": "Computer Science Engineering Student",
   "location": "Bengaluru, India",
-  "focus_areas": ["Full-Stack Engineering", "3D & Interactive Web (WebGL / Three.js)", "System Design & Databases"],
+  "focus_areas": [
+    "Full-Stack Engineering",
+    "3D & Interactive Web (WebGL / Three.js)",
+    "System Design & Database Optimization"
+  ],
   "currently_exploring": ["React Three Fiber", "Distributed Systems", "Cloud Deployments"],
   "open_for": ["Software Engineering Internships", "Full-Stack Roles", "Open Source Collaborations"]
 }
 ```
 
-- 🌐 **Interactive 3D Website:** Check out my WebGL 3D spatial experience at [srayadutta23.github.io/portfolio-3d](https://srayadutta23.github.io/portfolio-3d/)
-- 🔭 **Building:** Modern full-stack architectures, end-to-end web applications, and interactive user interfaces.
-- 💡 **Philosophy:** Bridging performant database architectures with immersive user experiences.
+- 🌐 **Interactive 3D Website:** Explore my spatial WebGL experience at [srayadutta23.github.io/portfolio-3d](https://srayadutta23.github.io/portfolio-3d/)
+- 🔭 **Building:** High-performance full-stack architectures, interactive frontend engines, and database systems.
+- 💡 **Passion:** Merging robust backend design with immersive 3D and responsive UI experiences.
+
+   </td>
+  </tr>
+</table>
 
 <br/>
 
