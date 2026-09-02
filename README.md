@@ -4,7 +4,7 @@
 
 **Computer Science Engineering student, building things at the intersection of web, cloud & data**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://srayadutta23.github.io/portfolio-3d/)
+[![Portfolio](http://localhost:5173/portfolio-3d/)](https://srayadutta23.github.io/portfolio-3d/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srayadutta23)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sraya.dutta23@gmail.com)
 
