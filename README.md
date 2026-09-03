@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner (High Reliability SVG) -->
+  <!-- Header Graphic Banner -->
   <a href="https://srayadutta23.github.io/portfolio-3d/">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=SRAYA%20DUTTA&text2=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%203D%20Web%20Developer&width=800&height=200" width="100%" alt="Sraya Dutta Header" />
+    <img src="./assets/header_banner.jpg" width="100%" alt="Sraya Dutta | Full-Stack & 3D Web Developer" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
   </a>
 
   <br/><br/>
