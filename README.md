@@ -2,7 +2,9 @@
 
   <!-- Header Graphic Banner -->
   <a href="https://srayadutta23.github.io/portfolio-3d/">
-   <img src="https://raw.githubusercontent.com/srayadutta23/portfolio-3d/main/assets/header_banner.jpg" width="100%" alt="Sraya Dutta Header" style="border-radius: 12px;" />
+  <p align="center">
+  <img src="./image.png" alt="Sraya Dutta Header" width="100%">
+</p>
 
   </a>
 
