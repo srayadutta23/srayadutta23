@@ -2,7 +2,8 @@
 
   <!-- Header Graphic Banner -->
   <a href="https://srayadutta23.github.io/portfolio-3d/">
-    <img src="./assets/header_banner.jpg" width="100%" alt="Sraya Dutta | Full-Stack & 3D Web Developer" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+   <img src="https://raw.githubusercontent.com/srayadutta23/portfolio-3d/main/assets/header_banner.jpg" width="100%" alt="Sraya Dutta Header" style="border-radius: 12px;" />
+
   </a>
 
   <br/><br/>
